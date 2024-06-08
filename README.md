@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnaD-D
 - 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on New Projects for learning
 - 📫 How to reach me ...
 - ⚡ Fun fact: I'm from the Dominican Republic 
