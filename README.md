@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnaD-D
 - 👀 I’m interested in Frontend development and Cloud Computing
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on New Projects for learning
 - 📫 How to reach me anadprofessional@gmail.com
 - ⚡ Fun fact: I'm from the Dominican Republic 
